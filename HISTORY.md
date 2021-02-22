@@ -1,4 +1,4 @@
-# ripple-address-codec Release History
+# aitd-address-codec Release History
 
 ## 4.1.2 (2021-01-11)
 
